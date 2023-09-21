@@ -9,5 +9,5 @@ weight = input()
 height = input()
 
 
-#Ваш кол
-
+#Ваш код
+    print(int(weight)*int(height)**2)
